@@ -24,3 +24,5 @@ Blood Work Analyzer is an AI-powered web application that analyzes blood test re
 
 ```bash
 git clone https://github.com/your-username/Blood-report-Analysis.git
+
+<img width="1347" height="741" alt="image" src="https://github.com/user-attachments/assets/3a4e2b17-f258-4663-b3e6-2fd4f21dd53b" />
